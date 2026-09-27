@@ -1,421 +1,268 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rahul%20Sangral&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+# Rahul Sangral
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Founding+Software+Engineer+%40+Clavix;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+SQL;AI%2FML+%26+LLM+Application+Builder;Turning+Ideas+Into+Production+Code" alt="Typing SVG"/>
+### AI Engineer · LLM / GenAI · Backend & Platform Engineering
 
-<br/>
+**Building production AI systems, reliable APIs, and real-world products from idea to deployment.**
 
-<img src="https://img.shields.io/badge/BCA-Uttaranchal%20University-6366F1?style=flat-square&logo=googlescholar&logoColor=white" alt="Degree"/>
-<img src="https://img.shields.io/badge/New%20Grad-2026-8B5CF6?style=flat-square&logo=graduation-cap&logoColor=white" alt="Grad Year"/>
-<img src="https://img.shields.io/badge/📍%20Jammu,%20India-4C1D95?style=flat-square" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-SDE--1%20Roles-7C3AED?style=flat-square&logo=briefcase&logoColor=white" alt="Open to work"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+LLM+%26+RAG+Systems;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Agentic+AI+%7C+Backend+Platforms+%7C+Cloud;Building+AI+Products+That+Actually+Ship)](https://git.io/typing-svg)
 
-<br/><br/>
-
-<a href="https://www.rahulsangral.me"><img src="https://img.shields.io/badge/🌐%20Portfolio-rahulsangral.me-6366F1?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/rahulsangral"><img src="https://img.shields.io/badge/LinkedIn-rahulsangral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:rishumvis007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/sangralrahul"><img src="https://img.shields.io/badge/GitHub-sangralrahul-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sangralrahul&style=flat-square&color=7C3AED&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/sangralrahul?style=flat-square&color=6366F1&labelColor=1e1e2e&label=Followers&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/sangralrahul?style=flat-square&color=8B5CF6&labelColor=1e1e2e&label=Stars&logo=github" alt="Stars"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahulsangral.me-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahulsangral.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Sangral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsangral)
+[![GitHub](https://img.shields.io/badge/GitHub-SANGRALRAHUL-181717?style=for-the-badge&logo=github)](https://github.com/SANGRALRAHUL)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rahulsangral)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.rishusangral@gmail.com)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 👋 About Me
 
-## 💠 About Me
+I'm **Rahul Sangral**, an **AI / Backend Engineer** focused on building and operating LLM-powered products, agentic systems, and production backend platforms.
 
-I'm a **software engineer** who takes features from idea to working code — designing REST APIs, modeling databases, and wiring up frontend, backend, and cloud deployment end-to-end.
+My work sits at the intersection of **Generative AI, retrieval systems, APIs, data infrastructure, cloud deployment, and product engineering**. I enjoy taking an idea beyond the prototype stage — designing the architecture, building the backend, connecting AI workflows, deploying it, monitoring it, and fixing what breaks in production.
 
-- 🏗️ **Founding Software Engineer** at Clavix Technologies — building a full-stack SaaS platform solo with **React, FastAPI, and PostgreSQL/Firestore**
-- 🤖 Building with **AI/ML & LLMs** — RAG pipelines, Claude API, Amazon Bedrock, Vertex AI
-- ⚙️ Strong foundation in **Data Structures & Algorithms, OOP, DBMS, OS, and System Design**
-- 🚀 Product engineering mindset — I ship features that solve real problems, not just code
-- 🌱 Freelance developer since 2023 — web apps, REST APIs, and automation for real clients
+- 🤖 Building with **LLMs, RAG, tool calling, agentic workflows, evaluation and guardrails**
+- ⚙️ Production backend work with **Python, FastAPI, PostgreSQL, Redis and REST APIs**
+- 🐳 Shipping containerised services with **Docker, GitHub Actions and CI/CD**
+- ☁️ Working across **AWS, GCP, Vercel, Railway, Firebase and Cloudflare**
+- 🔎 Interested in **AI reliability, observability, latency, token cost and scalable system design**
+- 🌍 Based in **India** and open to strong engineering collaborations and opportunities
 
-```yaml
-open_to:
-  roles: ["Software Engineer", "SDE-1", "Full-Stack Developer", "AI Engineer"]
-  location: ["Remote", "Relocation-ready"]
-  availability: "Immediately"
+---
+
+## 🚀 What I Build
+
+```text
+        LLMs / GenAI
+             +
+      Retrieval & RAG
+             +
+   Backend / API Systems
+             +
+ Data + Cloud Infrastructure
+             +
+     Observability & CI/CD
+             ↓
+      Production AI Products
 ```
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" alt="Languages"/>
-<br/>
-<img src="https://img.shields.io/badge/SQL-Advanced-6366F1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-</div>
-
-### 🎨 Frontend
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend"/>
-</div>
-
-### ⚙️ Backend & Databases
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,firebase&theme=dark" alt="Backend"/>
-</div>
-
-### ☁️ Cloud, DevOps & Tooling
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,githubactions,linux,vercel,postman&theme=dark" alt="Cloud & DevOps"/>
-</div>
+I prefer projects where AI is not just a demo layer. I care about the full system around it: data quality, retrieval, API design, safety, evaluation, caching, deployment, monitoring, reliability and user experience.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   AI / ML EXPERTISE SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🏢 Experience
 
-## 🧠 AI / ML Expertise
+### Founding Software Engineer — AI & Platform
+**Clavix Technologies Pvt. Ltd. (Aethex) · Remote · Nov 2025 – Present**
 
-<div align="center">
+- Built and shipped an **AI clinical-reference assistant** for doctors and medical students using LLM-backed retrieval over curated medical content.
+- Designed the retrieval and data layer with **PostgreSQL, embeddings, indexed schemas and caching** to keep latency and token spend predictable.
+- Added **pytest-based prompt/response regression checks, refusal/fallback handling and structured model-call logging**.
+- Built and operated containerised **FastAPI** services with **Docker** and push-to-ship **GitHub Actions CI/CD**.
+- Implemented **RBAC, backup/restore, database migrations, Cloudflare DNS/TLS/caching, health checks and production alerts**.
+- Integrated **Razorpay** using signed, idempotent webhooks with retry logic.
 
-| Domain | Proficiency | Details |
-|:-------|:-----------:|:--------|
-| 🤖 **LLM Applications** | ██████████ | Claude API, Amazon Bedrock, Vertex AI — certified by Anthropic (2026) |
-| 🔗 **RAG Pipelines** | █████████░ | Retrieval-augmented generation systems with prompt engineering |
-| 📊 **Data Science & Analytics** | █████████░ | Pandas, NumPy, Scikit-learn, ETL pipelines, KPI dashboards |
-| 🧮 **Machine Learning** | ████████░░ | Supervised/unsupervised learning, model evaluation — Microsoft AI & ML Engineering |
-| 🗣️ **NLP** | ████████░░ | Text processing, plain-English data summarization engines |
-| 📈 **BI & Visualization** | █████████░ | Tableau, Power BI, Streamlit, Matplotlib |
+### Freelance Software Developer — Backend & AI Integrations
+**Independent · Remote · 2023 – Present**
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>🔧 SQLFixEnv v2.0 — AI-Powered SQL Error Repair Environment</b></summary>
-<br/>
-
-> Built for the **Meta × Hugging Face PyTorch OpenEnv Hackathon (2025)** — a tool that spots SQL errors, explains what went wrong, and suggests a fix, running live as a web app.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python · LLM · Hugging Face Spaces · PyTorch OpenEnv |
-| **Scale** | Live public demo handling real user queries |
-| **Performance** | Real-time error detection, explanation & fix suggestion |
-| **Security** | Sandboxed SQL evaluation environment |
-| **Impact** | Hackathon submission for Meta × Hugging Face — deployed & publicly usable |
-| **Repository** | [🔗 Live Demo on Hugging Face](https://huggingface.co/spaces/SANGRALRAHUL/SQLFixEnv) |
-
-Detects malformed SQL, produces a human-readable diagnosis of the root cause, and generates a corrected query — packaged as an interactive environment compatible with the PyTorch OpenEnv spec.
-
-</details>
-
-<details>
-<summary><b>📊 AI Data Insights Engine — Plain-English Analytics Backend</b></summary>
-<br/>
-
-> A backend service that reads CSV/Excel files and returns plain-English summaries, charts, and anomaly alerts — cutting manual analysis time by **~60%**.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python · FastAPI · Pandas · NumPy |
-| **Scale** | Handles multi-sheet Excel & large CSV ingestion |
-| **Performance** | ~60% reduction in manual analysis time |
-| **Security** | Validated file ingestion & typed API contracts |
-| **Impact** | Automated insight generation for non-technical users |
-| **Repository** | [🔗 github.com/sangralrahul](https://github.com/sangralrahul) |
-
-Exposes REST endpoints that accept raw tabular data and return statistical summaries, auto-generated charts, and anomaly alerts — turning spreadsheets into decisions without an analyst in the loop.
-
-</details>
-
-<details>
-<summary><b>📈 KPI Performance Dashboard — Live SQL → Tableau Pipeline</b></summary>
-<br/>
-
-> A pipeline that feeds live SQL into an interactive dashboard with drill-down filters — cutting repetitive reporting requests by **~40%**.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | SQL · Tableau · ETL |
-| **Scale** | Org-wide KPI tracking across multiple data sources |
-| **Performance** | ~40% fewer repetitive reporting requests |
-| **Security** | Role-scoped dashboard access |
-| **Impact** | Self-serve analytics with drill-down filters for stakeholders |
-| **Repository** | [🔗 github.com/sangralrahul](https://github.com/sangralrahul) |
-
-Live SQL queries feed an interactive Tableau dashboard, replacing ad-hoc report requests with self-serve drill-down analytics.
-
-</details>
+- Delivered **FastAPI / React** applications with REST APIs and PostgreSQL / Firestore data models.
+- Wrapped LLM and data-processing workflows behind clean APIs for client applications.
+- Debugged production issues across frontend, API, database, deployment and DNS layers.
+- Built repeatable deployments with testing, CI pipelines and operational runbooks.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      EXPERIENCE SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🌟 Featured Projects
 
-## 💼 Experience
+### 🩺 Aethex — Healthcare SaaS + AI Clinical Assistant
+**FastAPI · PostgreSQL · React · Docker · GitHub Actions · Cloudflare · Firebase Auth · Razorpay · LLM/RAG**
 
-### 🏢 Founding Software Engineer — Full-Stack · **Clavix Technologies Pvt. Ltd. (Aethex)**
+A production healthcare platform combining medical supplies, study resources and an AI clinical-reference assistant behind one authenticated experience.
 
-**`Nov 2025 – Present`** · Remote · SaaS Platform
+- LLM-backed clinical-reference workflow
+- Retrieval over curated medical content
+- Role-based access and verified login
+- Production CI/CD and containerised backend
+- Payment webhooks, caching, observability and Cloudflare infrastructure
 
-Building a full-stack SaaS web application as the **sole engineer**, taking it from an idea to a working product.
-
-- 🔨 Architected the product end-to-end with **React, FastAPI, and PostgreSQL/Firestore**
-- 🔐 Designed the REST API and authentication with **Firebase Auth** — login sessions & role-based access
-- 💳 Planned the database schema, wired up **Razorpay subscriptions** and **GA4 analytics**
-- 🚀 Set up **CI/CD on Vercel and Railway** to ship changes fast
-
-`React` `FastAPI` `PostgreSQL` `Firestore` `Firebase Auth` `Razorpay` `CI/CD` `Vercel` `Railway`
-
-<br/>
-
-### 🌐 Freelance Software Developer · **Independent**
-
-**`2023 – Present`** · Remote
-
-- 🧩 Built web apps, REST APIs, and automation scripts for clients with **Python, FastAPI, and React**
-- 🔌 Integrated third-party APIs and SQL/NoSQL databases into client products
-
-`Python` `FastAPI` `React` `REST APIs` `SQL` `NoSQL` `Automation`
-
-<br/>
-
-### 📊 Business Development Executive (Intern) · **SND Technologies**
-
-**`Jan 2026 – Feb 2026`** · Remote
-
-- 🐍 Wrote **Python scripts** to pull and report KPIs automatically, cutting significant manual work
-- 📈 Built **SQL/Excel reports** to track leads and conversion rates
-
-`Python` `SQL` `Excel` `KPI Automation`
-
-<br/>
-
-### 🏦 Software Engineering Virtual Experience · **JPMorgan Chase & Deloitte Australia** (via Forage)
-
-**`Feb 2026`** · Remote
-
-- 💹 **JPMorgan** ([certificate](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_695c295addcaac68970acde1_1769701372156_completion_certificate.pdf)): used Python to process live financial data feeds and catch anomalies
-- 🧹 **Deloitte**: cleaned multi-source data and built dashboards
-
-`Python` `Financial Data` `Anomaly Detection` `Dashboards`
+**Live:** [aethex.in](https://aethex.in)  
+**Code:** [github.com/sangralrahul/Aethex](https://github.com/sangralrahul/Aethex)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACHIEVEMENTS SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🛠️ SQLFixEnv v2.0 — Agentic SQL Debugging Environment
+**Python · SQL · LLM Agents · Hugging Face Spaces · Docker**
 
-## 🏆 Achievements
+Built for the **Meta × Hugging Face PyTorch OpenEnv Hackathon 2025**.
 
-<div align="center">
+An agent-style environment that detects SQL errors, explains the root cause and proposes a verified fix using sandboxed tool execution, deterministic evaluation cases and reproducible container builds.
 
-| 🎖️ Recognition | 📋 Details |
-|:---------------|:-----------|
-| **Meta × Hugging Face Hackathon Builder** | Shipped SQLFixEnv v2.0 for the PyTorch OpenEnv Hackathon 2025 — live on Hugging Face Spaces |
-| **Founding Engineer at 21** | Sole engineer building a production SaaS platform from zero at Clavix Technologies |
-| **McKinsey Forward Program** | Selected for McKinsey & Company's global professional development program (2026) |
-| **JPMorgan SWE Certificate** | Completed JPMorgan Chase Software Engineering Virtual Experience with certification |
-| **60% Analysis Time Cut** | AI Data Insights Engine automated manual data analysis workflows |
-
-</div>
+**Live Demo:** [SQLFixEnv on Hugging Face](https://huggingface.co/spaces/SANGRALRAHUL/SQLFixEnv-Demo)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CERTIFICATIONS SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🛍️ Zyphix — Hyperlocal Commerce Platform
+**Next.js · FastAPI · Firestore · Vercel · Cloudflare**
 
-## 📜 Certifications
+A hyperlocal commerce platform designed for local stores, partner onboarding and fast neighbourhood ordering, with automated builds and custom-domain DNS/TLS.
 
-### 🟣 Anthropic (2026)
-
-<a href="https://verify.skilljar.com/c/i3h2m4rcgjsm"><img src="https://img.shields.io/badge/Building%20with%20the%20Claude%20API-Anthropic-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white"/></a>
-<a href="https://verify.skilljar.com/c/7r6sf98nkkzv"><img src="https://img.shields.io/badge/Claude%20in%20Amazon%20Bedrock-Anthropic-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
-<a href="https://verify.skilljar.com/c/7bbqpvc8vzxu"><img src="https://img.shields.io/badge/Claude%20with%20Vertex%20AI-Anthropic-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
-
-### 🔵 Google
-
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS"><img src="https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics-Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-
-### 🟦 Microsoft
-
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77"><img src="https://img.shields.io/badge/AI%20%26%20ML%20Engineering-Microsoft-5E5CDE?style=for-the-badge&logo=micropython&logoColor=white"/></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L"><img src="https://img.shields.io/badge/AI%20%26%20ML%20Algorithms%20%26%20Techniques-Microsoft-6D28D9?style=for-the-badge"/></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/7KYKYMY4CZWV"><img src="https://img.shields.io/badge/Preparing%20Data%20for%20Analysis%20with%20Excel-Microsoft-4F46E5?style=for-the-badge"/></a>
-
-### 🟩 Cisco
-
-<a href="https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927/linked_in_profile"><img src="https://img.shields.io/badge/Introduction%20to%20Data%20Science-Cisco%20(2026)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
-
-### ⬛ McKinsey & Company
-
-<a href="https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14"><img src="https://img.shields.io/badge/McKinsey%20Forward%20Program-2026-2B0A57?style=for-the-badge&logoColor=white"/></a>
+**Live:** [zyphix.in](https://zyphix.in)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CODING PROFILES SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 📊 AI Data Insights Engine & KPI Pipeline
+**Python · FastAPI · Pandas · SQL · Tableau**
 
-## ⚔️ Coding Profiles
+A data-analysis backend that ingests CSV / Excel files and returns summaries, charts and anomaly alerts, paired with a SQL pipeline for drill-down KPI dashboards.
 
-<div align="center">
-
-<a href="https://leetcode.com/u/rahulsangral"><img src="https://img.shields.io/badge/LeetCode-rahulsangral-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1e2e" height="40"/></a>
-<a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="https://img.shields.io/badge/GeeksforGeeks-rahulsangral-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1e2e" height="40"/></a>
-<a href="https://codeforces.com/profile/rahulsangral"><img src="https://img.shields.io/badge/Codeforces-rahulsangral-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1e1e2e" height="40"/></a>
-<a href="https://www.codedex.io/@rahulsangral"><img src="https://img.shields.io/badge/Codedex-rahulsangral-8B5CF6?style=for-the-badge&logo=codersrank&logoColor=white&labelColor=1e1e2e" height="40"/></a>
-
-</div>
+- Reduced manual analysis work by approximately **60%**
+- Reduced recurring reporting requests by approximately **40%**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB ANALYTICS SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🏙️ CivicPulse Agent
+**AI Agents · CivicTech · Google Cloud / Gemini concepts**
+
+An AI-powered civic issue reporting and tracking project that classifies local problems, routes them and tracks issues through resolution.
+
+Built for the **All Things Agentic Hackathon**.
+
+---
+
+### 🧩 Open-Source / Engineering Contributions
+
+I also contribute to developer and benchmark ecosystems. Recent work includes a contribution to **harbor-framework/terminal-bench**, focused on a vendor annotation reconciliation task.
+
+---
+
+## 🧠 AI / GenAI Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,aws,gcp,githubactions,linux" />
+</p>
+
+### LLM & Agentic AI
+
+`LLM Application Development` · `RAG` · `Chunking` · `Embeddings` · `Semantic Search` · `Re-ranking` · `Prompt Engineering` · `Structured Output` · `Tool Calling` · `Agentic Patterns` · `Evaluation Harnesses` · `Guardrails` · `Latency Optimisation` · `Token-Cost Optimisation`
+
+### Frameworks & Providers
+
+`LangChain` · `LlamaIndex` · `Hugging Face Transformers` · `PyTorch` · `OpenAI APIs` · `Anthropic Claude APIs` · `Amazon Bedrock` · `Vertex AI` · `LoRA / QLoRA Fundamentals`
+
+### Vector Search & Data
+
+`pgvector` · `Pinecone` · `Weaviate` · `Qdrant` · `PostgreSQL` · `Redis` · `Firestore` · `MongoDB` · `MySQL`
+
+---
+
+## ⚙️ Backend & Platform Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,mongodb,redis,docker,kubernetes,aws,gcp,firebase,vercel,cloudflare,git,github,linux" />
+</p>
+
+**Backend:** Python · FastAPI · Flask · REST APIs · Auth · RBAC · Validation · Rate Limiting · Webhooks · Event-Driven Patterns · pytest  
+**Cloud & DevOps:** AWS · GCP · Docker · Kubernetes · GitHub Actions · Vercel · Railway · Firebase · Cloudflare · Linux  
+**Observability:** Structured Logging · Health Checks · Uptime/Error Alerts · Grafana · Prometheus · GA4 · LLM Tracing/Eval Concepts  
+**Developer Tools:** Git · GitHub · Cursor · GitHub Copilot · Claude Code
+
+---
+
+## 🧩 Engineering Fundamentals
+
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `Distributed Systems` · `System Design`
+
+---
+
+## 🎓 Education
+
+### Bachelor of Computer Applications — BCA
+**Uttaranchal University, Dehradun · 2023 – 2026**
+
+Coursework includes:
+
+`Operating Systems` · `Computer Networks` · `DBMS` · `DSA` · `OOP` · `Software Engineering` · `Web Development`
+
+---
+
+## 🏅 Certifications & Learning
+
+- **Oracle** — AI Agentic
+- **Microsoft** — AI & ML Engineering
+- **Anthropic** — Claude API · Bedrock · Vertex AI
+- **Google** — Advanced Data Analytics
+- **JPMorgan** — Software Engineering, Forage
+- **McKinsey** — Forward Program
+- **Cisco** — Data Science
+- **HackerRank** — Software Engineer Certificate
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sangralrahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sangralrahul&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="180" alt="Streak Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SANGRALRAHUL&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Rahul's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANGRALRAHUL&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangralrahul&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=SANGRALRAHUL&hide_border=true" alt="GitHub streak" />
 
-</div>
+<br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sangralrahul&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANGRALRAHUL&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION ACTIVITY SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangralrahul&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=A78BFA&line=8B5CF6&point=ffffff&area=true&area_color=6366F1" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION SNAKE SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangralrahul/sangralrahul/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangralrahul/sangralrahul/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/sangralrahul/sangralrahul/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Focus
 
 ```yaml
-learning:
-  - System Design at scale
-  - Advanced RAG architectures & agentic LLM workflows
-  - Cloud-native deployment patterns (AWS / GCP / Azure)
+name: Rahul Sangral
+role: AI Engineer / Backend Platform Engineer
 
-building:
-  - Clavix SaaS platform (React + FastAPI + PostgreSQL)
-  - AI-powered developer tooling
+currently_building:
+  - production LLM applications
+  - RAG and agentic workflows
+  - reliable backend platforms
+  - AI-enabled real-world products
 
-exploring:
-  - Open-source contribution opportunities
-  - AI hackathons & LLM evaluation environments
+engineering_priorities:
+  - evaluation and observability
+  - API and data-layer reliability
+  - latency and token-cost optimisation
+  - production-safe AI behaviour
+  - scalable cloud deployment
 
 open_to:
-  - Software Engineer / SDE-1 roles (remote or relocation)
-  - Freelance full-stack & AI projects
-  - Open-source collaboration
+  - AI / GenAI engineering
+  - backend engineering
+  - platform engineering
+  - open-source collaboration
+  - ambitious product teams
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="mailto:rishumvis007@gmail.com"><img src="https://img.shields.io/badge/Gmail-rishumvis007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rahulsangral"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/sangralrahul"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.rahulsangral.me"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-rahulsangral.me-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahulsangral.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulsangral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulsangral)
+[![GitHub](https://img.shields.io/badge/GitHub-SANGRALRAHUL-181717?style=for-the-badge&logo=github)](https://github.com/SANGRALRAHUL)
+[![HackerRank](https://img.shields.io/badge/HackerRank-rahulsangral-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rahulsangral)
+[![Email](https://img.shields.io/badge/Email-rahul.rishusangral%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.rishusangral@gmail.com)
 
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=SANGRALRAHUL&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER SECTION                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### *"I like taking a feature from an idea to working code."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+### Build useful things. Make them reliable. Ship them.
 
 </div>
