@@ -1,0 +1,31 @@
+# Keeps the profile picture in assets/header.svg in sync with the GitHub avatar.
+# Runs on every push, daily, and on demand; commits only when the picture changed.
+# One-time setup: repo Settings → Actions → General → Workflow permissions → "Read and write permissions".
+name: Refresh profile picture in banner
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Embed the current avatar
+        run: python3 scripts/inject_avatar.py "${{ github.repository_owner }}"
+
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/header.svg
+          git diff --cached --quiet || (git commit -m "chore: refresh profile picture in banner [skip ci]" && git push)

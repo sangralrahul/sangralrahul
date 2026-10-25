@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Rahul Sangral: I build AI products for healthcare, and ship them end to end.">
+<a href="https://rahulsangral.me"><img src="assets/header.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
 
 <p align="center">
   <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/Portfolio-rahulsangral.me-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=googlechrome&logoColor=5EEAD4" alt="Portfolio"></a>
@@ -9,7 +9,9 @@
 
 Founder of **[AETHEX](https://aethex.in)**, a medical workspace for India's doctors, hospitals and medical colleges, and of **[Cadus](https://cadus.aethex.in)**, the clinical AI built into it. I design the APIs and data, build the web and desktop apps, and run the releases: React, TypeScript, FastAPI, PostgreSQL and AI.
 
-Founding Software Engineer at Clavix Technologies, graduating in 2026 (BCA, Uttaranchal University). Open to **SDE-1 / New Grad roles**, remote or on-site, and to freelance work.
+Founding Software Engineer at Clavix Technologies and graduating in 2026 (BCA, Uttaranchal University). Open to **SDE-1 / New Grad roles**, remote or on-site, and to freelance work. Next up: Cadus Desktop for macOS.
+
+<img src="assets/glance.svg" width="100%" alt="At a glance: 3+ years building software, 10+ certifications, 60% less manual analysis, 40% fewer manual reports.">
 
 ## AETHEX
 
@@ -74,18 +76,19 @@ Also: [NESTOOD](https://github.com/sangralrahul/NESTOOD), a construction website
 
 ## Experience
 
-| | | |
-|---|---|---|
-| **Founding Software Engineer** | Clavix Technologies (Aethex) · Remote | Nov 2025 – present |
-| | Sole developer behind aethex.in and its products: the Cadus clinical AI (web and desktop) and the AETHEX PC, HC and MC desktop apps. API design, authentication, database schema, Razorpay payments, analytics and CI/CD. | |
-| **Freelance Software Developer** | Independent · Remote | 2023 – present |
-| | Web apps, REST APIs and automation scripts for clients across domains. | |
-| **Business Development Executive (Intern)** | SND Technologies · Remote | Jan – Feb 2026 |
-| | Automated KPI reporting with Python; SQL and Excel lead and conversion reports. | |
-| **Software Engineering Virtual Experience** | JPMorgan Chase and Deloitte Australia (Forage) | Feb 2026 |
-| | Screened financial data feeds for anomalies with Python; cleaned multi-source data for dashboards. | |
+**Founding Software Engineer**, Clavix Technologies (Aethex) · Remote · Nov 2025 – present  
+Sole developer behind aethex.in and its products: the Cadus clinical AI (web and desktop) and the AETHEX PC, HC and MC desktop apps. API design, authentication, database schema, Razorpay payments, analytics and CI/CD.
 
-Bachelor of Computer Applications, Uttaranchal University, Dehradun (2023 – 2026).
+**Freelance Software Developer**, independent · Remote · 2023 – present  
+Web apps, REST APIs and automation scripts for clients across domains.
+
+**Business Development Executive (Intern)**, SND Technologies · Remote · Jan – Feb 2026  
+Automated KPI reporting with Python; SQL and Excel lead and conversion reports.
+
+**Software Engineering Virtual Experience**, JPMorgan Chase and Deloitte Australia (Forage) · Feb 2026  
+Screened financial data feeds for anomalies with Python; cleaned multi-source data for dashboards.
+
+**Bachelor of Computer Applications**, Uttaranchal University, Dehradun · 2023 – 2026
 
 ## Certifications
 
