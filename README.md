@@ -1,10 +1,10 @@
 <a href="https://rahulsangral.me"><img src="assets/banner.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
 
 <p align="center">
-  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/Portfolio-rahulsangral.me-4F46E5?style=for-the-badge&labelColor=0B1020&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/rahulsangral/"><img src="https://img.shields.io/badge/LinkedIn-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
-  <a href="mailto:hello@rahulsangral.me"><img src="https://img.shields.io/badge/Email-hello%40rahulsangral.me-4F46E5?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=22D3EE" alt="Email"></a>
-  <a href="https://rahulsangral.me/resume.pdf"><img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge&labelColor=0B1020&logo=readdotcv&logoColor=22D3EE" alt="Download CV"></a>
+  <a href="https://rahulsangral.me"><img src="assets/btn/portfolio.svg" height="48" alt="Portfolio: rahulsangral.me"></a>
+  <a href="https://www.linkedin.com/in/rahulsangral/"><img src="assets/btn/linkedin.svg" height="48" alt="LinkedIn: in/rahulsangral"></a>
+  <a href="mailto:hello@rahulsangral.me"><img src="assets/btn/email.svg" height="48" alt="Email: hello@rahulsangral.me"></a>
+  <a href="https://rahulsangral.me/resume.pdf"><img src="assets/btn/cv.svg" height="48" alt="CV: Download PDF"></a>
 </p>
 
 <img src="assets/about.svg" width="100%" alt="Founder of AETHEX, a medical workspace for India's doctors, hospitals and medical colleges, and of Cadus, the clinical AI built into it. I design the APIs and data, build the web and desktop apps, and run the releases. Founding Software Engineer at Clavix Technologies, BCA 2026, Delhi, open to SDE-1 / New Grad roles and freelance.">
@@ -16,11 +16,11 @@
 <img src="assets/products.svg" width="100%" alt="The AETHEX product family: one aethex.in account across the web platform, the AETHEX PC, HC and MC desktop apps and Cadus Desktop, with the Cadus clinical AI built into every app.">
 
 <p align="center">
-  <a href="https://aethex.in"><img src="https://img.shields.io/badge/Web-aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020&logo=googlechrome&logoColor=22D3EE" alt="Web: aethex.in"></a>
-  <a href="https://cadus.aethex.in"><img src="https://img.shields.io/badge/Cadus-cadus.aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Cadus: cadus.aethex.in"></a>
-  <a href="https://hms.aethex.in"><img src="https://img.shields.io/badge/Desktop_apps-hms.aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020&logo=windows&logoColor=22D3EE" alt="Desktop_apps: hms.aethex.in"></a>
-  <a href="https://downloads.aethex.in"><img src="https://img.shields.io/badge/Downloads-downloads.aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Downloads: downloads.aethex.in"></a>
-  <a href="https://github.com/sangralrahul/Aethex"><img src="https://img.shields.io/badge/Repo-sangralrahul/Aethex-4F46E5?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=22D3EE" alt="Repo: sangralrahul/Aethex"></a>
+  <a href="https://aethex.in"><img src="assets/btn/ax-web.svg" height="48" alt="Web: aethex.in"></a>
+  <a href="https://cadus.aethex.in"><img src="assets/btn/ax-cadus.svg" height="48" alt="Cadus: cadus.aethex.in"></a>
+  <a href="https://hms.aethex.in"><img src="assets/btn/ax-hms.svg" height="48" alt="Desktop apps: hms.aethex.in"></a>
+  <a href="https://downloads.aethex.in"><img src="assets/btn/ax-dl.svg" height="48" alt="Downloads: downloads.aethex.in"></a>
+  <a href="https://github.com/sangralrahul/Aethex"><img src="assets/btn/ax-repo.svg" height="48" alt="Repo: sangralrahul/Aethex"></a>
 </p>
 
 <img src="assets/cadus.svg" width="100%" alt="Inside Cadus: privacy guard, safety review on every answer, Deep Dive research on PubMed, Rx Safety Check, Consult Translator in 13 Indian languages, Cadus Crew assistants.">
@@ -48,41 +48,24 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,cloudflare,docker,githubactions,linux,sklearn,postman,git,vscode&perline=12" alt="AWS, Google Cloud, Azure, Vercel, Cloudflare, Docker, GitHub Actions, Linux, scikit-learn, Postman, Git, VS Code"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_API-4F46E5?style=flat-square&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Claude API">
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-4F46E5?style=flat-square&labelColor=0B1020&logo=amazonwebservices&logoColor=22D3EE" alt="Amazon Bedrock">
-  <img src="https://img.shields.io/badge/Vertex_AI-4F46E5?style=flat-square&labelColor=0B1020&logo=googlecloud&logoColor=22D3EE" alt="Vertex AI">
-  <img src="https://img.shields.io/badge/Hugging_Face-4F46E5?style=flat-square&labelColor=0B1020&logo=huggingface&logoColor=22D3EE" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/RAG_pipelines-4F46E5?style=flat-square&labelColor=0B1020" alt="RAG pipelines">
-  <img src="https://img.shields.io/badge/Pandas-4F46E5?style=flat-square&labelColor=0B1020&logo=pandas&logoColor=22D3EE" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-4F46E5?style=flat-square&labelColor=0B1020&logo=numpy&logoColor=22D3EE" alt="NumPy">
-  <img src="https://img.shields.io/badge/Tableau-4F46E5?style=flat-square&labelColor=0B1020&logo=tableau&logoColor=22D3EE" alt="Tableau">
-  <img src="https://img.shields.io/badge/Power_BI-4F46E5?style=flat-square&labelColor=0B1020" alt="Power BI">
-  <img src="https://img.shields.io/badge/Razorpay-4F46E5?style=flat-square&labelColor=0B1020&logo=razorpay&logoColor=22D3EE" alt="Razorpay">
-</p>
-
 <img src="assets/ticker.svg" width="100%" alt="Stack ticker: Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Firestore, Node.js, Tailwind, Claude API, Amazon Bedrock, Vertex AI, Hugging Face, RAG, scikit-learn, Pandas, AWS, Google Cloud, Azure, Vercel, Railway, Cloudflare, Docker, GitHub Actions, Razorpay, Postman, pytest.">
 
 <img src="assets/sec-certs.svg" width="100%" alt="05 Certifications, each one links to the issuer">
 
 <p align="center">
-  <a href="https://verify.skilljar.com/c/i3h2m4rcgjsm"><img src="https://img.shields.io/badge/Anthropic-Building_with_the_Claude_API-4F46E5?style=for-the-badge&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Anthropic: Building_with_the_Claude_API"></a>
-  <a href="https://verify.skilljar.com/c/7r6sf98nkkzv"><img src="https://img.shields.io/badge/Anthropic-Claude_in_Amazon_Bedrock-4F46E5?style=for-the-badge&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Anthropic: Claude_in_Amazon_Bedrock"></a>
-  <a href="https://verify.skilljar.com/c/7bbqpvc8vzxu"><img src="https://img.shields.io/badge/Anthropic-Claude_with_Vertex_AI-4F46E5?style=for-the-badge&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Anthropic: Claude_with_Vertex_AI"></a>
-  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/Oracle-Agentic_AI_Foundations_Associate-4F46E5?style=for-the-badge&labelColor=0B1020&logo=oracle&logoColor=22D3EE" alt="Oracle: Agentic_AI_Foundations_Associate"></a>
-  <a href="https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14"><img src="https://img.shields.io/badge/McKinsey-Forward_Program-4F46E5?style=for-the-badge&labelColor=0B1020" alt="McKinsey: Forward_Program"></a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS"><img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4F46E5?style=for-the-badge&labelColor=0B1020&logo=google&logoColor=22D3EE" alt="Google: Advanced_Data_Analytics"></a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77"><img src="https://img.shields.io/badge/Microsoft-AI_%26_ML_Engineering-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Microsoft: AI_%26_ML_Engineering"></a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L"><img src="https://img.shields.io/badge/Microsoft-AI_%26_ML_Algorithms-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Microsoft: AI_%26_ML_Algorithms"></a>
-  <a href="https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927"><img src="https://img.shields.io/badge/Cisco-Introduction_to_Data_Science-4F46E5?style=for-the-badge&labelColor=0B1020&logo=cisco&logoColor=22D3EE" alt="Cisco: Introduction_to_Data_Science"></a>
-  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering_(Forage)-4F46E5?style=for-the-badge&labelColor=0B1020" alt="JPMorgan_Chase: Software_Engineering_(Forage)"></a>
+  <a href="https://verify.skilljar.com/c/i3h2m4rcgjsm"><img src="assets/btn/c-claude.svg" height="48" alt="Anthropic: Building with the Claude API"></a>
+  <a href="https://verify.skilljar.com/c/7r6sf98nkkzv"><img src="assets/btn/c-bedrock.svg" height="48" alt="Anthropic: Claude in Amazon Bedrock"></a>
+  <a href="https://verify.skilljar.com/c/7bbqpvc8vzxu"><img src="assets/btn/c-vertex.svg" height="48" alt="Anthropic: Claude with Vertex AI"></a>
+  <a href="https://rahulsangral.me"><img src="assets/btn/c-oracle.svg" height="48" alt="Oracle: Agentic AI Foundations Associate"></a>
+  <a href="https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14"><img src="assets/btn/c-mck.svg" height="48" alt="McKinsey: Forward Program"></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS"><img src="assets/btn/c-google.svg" height="48" alt="Google: Advanced Data Analytics"></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77"><img src="assets/btn/c-ms1.svg" height="48" alt="Microsoft: AI &amp; ML Engineering"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L"><img src="assets/btn/c-ms2.svg" height="48" alt="Microsoft: AI &amp; ML Algorithms"></a>
+  <a href="https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927"><img src="assets/btn/c-cisco.svg" height="48" alt="Cisco: Introduction to Data Science"></a>
+  <a href="https://rahulsangral.me"><img src="assets/btn/c-jpmc.svg" height="48" alt="JPMorgan Chase: Software Engineering (Forage)"></a>
 </p>
 
 <img src="assets/sec-activity.svg" width="100%" alt="06 Activity, live from GitHub">
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sangralrahul&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangralrahul&show_icons=true&hide_border=true&count_private=true&bg_color=0B1020&title_color=22D3EE&icon_color=A855F7&text_color=9AA3C7&ring_color=A855F7&border_radius=16" height="170" alt="GitHub stats">
@@ -107,14 +90,12 @@
 <img src="assets/sec-connect.svg" width="100%" alt="07 Connect, usually replies within a day">
 
 <p align="center">
-  <a href="https://leetcode.com/u/rahulsangral/"><img src="https://img.shields.io/badge/LeetCode-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=leetcode&logoColor=22D3EE" alt="LeetCode"></a>
-  <a href="https://codeforces.com/profile/rahulsangral"><img src="https://img.shields.io/badge/Codeforces-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=codeforces&logoColor=22D3EE" alt="Codeforces"></a>
-  <a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="https://img.shields.io/badge/GeeksforGeeks-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=geeksforgeeks&logoColor=22D3EE" alt="GeeksforGeeks"></a>
-  <a href="https://www.hackerrank.com/rahulsangral"><img src="https://img.shields.io/badge/HackerRank-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=hackerrank&logoColor=22D3EE" alt="HackerRank"></a>
-  <a href="https://huggingface.co/sangralrahul"><img src="https://img.shields.io/badge/Hugging_Face-sangralrahul-4F46E5?style=for-the-badge&labelColor=0B1020&logo=huggingface&logoColor=22D3EE" alt="Hugging Face"></a>
-  <a href="https://www.codedex.io/@rahulsangral"><img src="https://img.shields.io/badge/Cod%C3%A9dex-%40rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Codédex"></a>
+  <a href="https://leetcode.com/u/rahulsangral/"><img src="assets/btn/s-leetcode.svg" height="48" alt="LeetCode: rahulsangral"></a>
+  <a href="https://codeforces.com/profile/rahulsangral"><img src="assets/btn/s-cf.svg" height="48" alt="Codeforces: rahulsangral"></a>
+  <a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="assets/btn/s-gfg.svg" height="48" alt="GeeksforGeeks: rahulsangral"></a>
+  <a href="https://www.hackerrank.com/rahulsangral"><img src="assets/btn/s-hr.svg" height="48" alt="HackerRank: rahulsangral"></a>
+  <a href="https://huggingface.co/sangralrahul"><img src="assets/btn/s-hf.svg" height="48" alt="Hugging Face: sangralrahul"></a>
+  <a href="https://www.codedex.io/@rahulsangral"><img src="assets/btn/s-codedex.svg" height="48" alt="Codédex: @rahulsangral"></a>
 </p>
 
-<p align="center">The quickest way to reach me is <a href="mailto:hello@rahulsangral.me">hello@rahulsangral.me</a>. I usually reply within a day.</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:4F46E5,100:A855F7&height=130&section=footer&animation=twinkling" width="100%" alt="">
+<img src="assets/footer.svg" width="100%" alt="Let's build something for healthcare. hello@rahulsangral.me">
