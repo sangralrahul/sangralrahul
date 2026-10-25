@@ -7,53 +7,40 @@
   <a href="https://rahulsangral.me/resume.pdf"><img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge&labelColor=0B1020&logo=readdotcv&logoColor=22D3EE" alt="Download CV"></a>
 </p>
 
-Founder of **[AETHEX](https://aethex.in)**, a medical workspace for India's doctors, hospitals and medical colleges, and of **[Cadus](https://cadus.aethex.in)**, the clinical AI built into it. I design the APIs and data, build the web and desktop apps, and run the releases: React, TypeScript, FastAPI, PostgreSQL and AI.
-
-Founding Software Engineer at Clavix Technologies and graduating in 2026 (BCA, Uttaranchal University). Open to **SDE-1 / New Grad roles**, remote or on-site, and to freelance work. Next up: Cadus Desktop for macOS.
+<img src="assets/about.svg" width="100%" alt="Founder of AETHEX, a medical workspace for India's doctors, hospitals and medical colleges, and of Cadus, the clinical AI built into it. I design the APIs and data, build the web and desktop apps, and run the releases. Founding Software Engineer at Clavix Technologies, BCA 2026, Delhi, open to SDE-1 / New Grad roles and freelance.">
 
 <img src="assets/stats.svg" width="100%" alt="At a glance: 3+ years building software, 10+ certifications, 60% less manual analysis, 40% fewer manual reports, and skill levels across the stack.">
 
-## AETHEX
+<img src="assets/sec-aethex.svg" width="100%" alt="01 AETHEX, founder and sole developer">
 
 <img src="assets/products.svg" width="100%" alt="The AETHEX product family: one aethex.in account across the web platform, the AETHEX PC, HC and MC desktop apps and Cadus Desktop, with the Cadus clinical AI built into every app.">
 
-| Product | Who it's for | What it does | Status |
-|---|---|---|---|
-| **[aethex.in](https://aethex.in)** | Doctors and medical students | Medical store, study hub and Cadus in the browser. React + TypeScript frontend, FastAPI API, PostgreSQL and Firestore, role-based auth, Razorpay subscriptions, GA4, CI/CD on Vercel and Railway. | Live |
-| **[Cadus](https://cadus.aethex.in)** | Clinicians and students | Clinical AI assistant. Every answer carries sources and passes a safety review for doses and red flags before it is shown. Runs on the Medius 3.1 and Magnus 3.6 models. | Live |
-| **[Cadus Desktop](https://downloads.aethex.in)** | Doctors who live inside hospital software | Cadus in its own window: Ctrl+Shift+Space opens a chat from any app, a tray menu keeps tools one click away, reminders surface due flashcards and ward jobs, daily update checks. Windows x64 and ARM64, Linux; macOS next. | v1.0.2 |
-| **[AETHEX PC](https://hms.aethex.in)** | Doctors and students | Cadus, the offline medical library and My Clinic for a doctor's own practice. | v0.1.70 |
-| **[AETHEX HC](https://hms.aethex.in)** | Hospitals and clinics | Runs a hospital from the front desk to discharge: OPD, admissions, wards and nursing, lab, pharmacy, GST billing with UPI and insurance claims. 30+ modules. | v0.1.70 |
-| **[AETHEX MC](https://hms.aethex.in)** | Medical colleges | Timetable, attendance with the 75% / 80% rule, CBME logbook, exams and fees. 25+ modules. | v0.1.70 |
+<p align="center">
+  <a href="https://aethex.in"><img src="https://img.shields.io/badge/Web-aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020&logo=googlechrome&logoColor=22D3EE" alt="Web: aethex.in"></a>
+  <a href="https://cadus.aethex.in"><img src="https://img.shields.io/badge/Cadus-cadus.aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Cadus: cadus.aethex.in"></a>
+  <a href="https://hms.aethex.in"><img src="https://img.shields.io/badge/Desktop_apps-hms.aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020&logo=windows&logoColor=22D3EE" alt="Desktop_apps: hms.aethex.in"></a>
+  <a href="https://downloads.aethex.in"><img src="https://img.shields.io/badge/Downloads-downloads.aethex.in-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Downloads: downloads.aethex.in"></a>
+  <a href="https://github.com/sangralrahul/Aethex"><img src="https://img.shields.io/badge/Repo-sangralrahul/Aethex-4F46E5?style=for-the-badge&labelColor=0B1020&logo=github&logoColor=22D3EE" alt="Repo: sangralrahul/Aethex"></a>
+</p>
 
-Three desktop apps share one aethex.in account with Google sign-in, and all of them carry the same 15,515-article medical library that works offline.
+<img src="assets/cadus.svg" width="100%" alt="Inside Cadus: privacy guard, safety review on every answer, Deep Dive research on PubMed, Rx Safety Check, Consult Translator in 13 Indian languages, Cadus Crew assistants.">
 
-**Inside Cadus**
+<img src="assets/sec-work.svg" width="100%" alt="02 Selected work: products, hackathons, case studies">
 
-- A privacy guard hides patient identifiers before anything is sent; every clinical answer is safety-reviewed; answer history stays on the device.
-- Reference-style answers with key points, evidence-certainty labels, dose cards and numbered sources.
-- Drug-interaction checks, dosage calculations, lab-value help and an Rx Safety Check for a typed, photographed or PDF prescription.
-- Deep Dive: plans the question, searches PubMed and guideline sites step by step, then writes a cited, safety-reviewed report.
-- Patient cases with a vitals timeline, 16 guideline-based clinical pathways, a Case Simulator with a scored debrief and a Presentation Coach.
-- Report Explainer and a two-way Consult Translator across 13 Indian languages, by voice or typing.
-- Cadus Crew: 20 ready-made assistants (Viva Examiner, Clinical Pharmacist, ICU Registrar and more) or your own, with knowledge files, @mentions and Crew Huddle.
+<table>
+<tr><td width="50%"><a href="https://zyphix.in"><img src="assets/cards/zyphix.svg" width="100%" alt="Zyphix: Hyperlocal commerce for India: groceries, food and pharmacy from trusted neighbourhood businesses. Built from scratch."></a></td><td width="50%"><a href="https://github.com/sangralrahul/sentinel-z"><img src="assets/cards/sentinel-z.svg" width="100%" alt="Sentinel-Z: Privacy-preserving fraud detection for banking security logs. Pseudonymised, explainable, no cloud calls, runs on IBM Z."></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/sangralrahul/SQLFixEnv"><img src="assets/cards/sqlfixenv.svg" width="100%" alt="SQLFixEnv: OpenEnv environment where agents repair broken SQL queries against a real SQLite database, with graded rewards."></a></td><td width="50%"><a href="https://github.com/sangralrahul/CodeDebugEnv"><img src="assets/cards/codedebugenv.svg" width="100%" alt="CodeDebugEnv: OpenEnv environment where agents fix real-world buggy Python code and are scored on the repair."></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/sangralrahul/inrisk-weather-explorer"><img src="assets/cards/weather-explorer.svg" width="100%" alt="Weather Explorer: Climate-data pipeline: Open-Meteo history archived as raw JSON in Google Cloud Storage, served by FastAPI, shown in Next.js."></a></td><td width="50%"><a href="https://github.com/sangralrahul/employee-attendance-api"><img src="assets/cards/attendance-api.svg" width="100%" alt="Employee Attendance API: Punch-in / punch-out service with IST business rules, audited corrections and analytics as MongoDB aggregation pipelines."></a></td></tr>
+<tr><td width="50%"><a href="https://daylit5.vercel.app"><img src="assets/cards/daylit.svg" width="100%" alt="Daylit: A one-minute daily English habit: streaks, points, badges and a weekly league, built for modest phones and mobile data."></a></td><td width="50%"><a href="https://github.com/sangralrahul/CIVICPULSEAGENT"><img src="assets/cards/civicpulse.svg" width="100%" alt="CivicPulse Agent: Civic-issue reporting: classifies complaints, routes them to the right department and tracks each one to resolution."></a></td></tr>
+</table>
 
-## Other work
+<p align="center">Also: <a href="https://github.com/sangralrahul/REFLECT-AI">ReflectAI</a> (Gemini journaling on Firebase) · <a href="https://github.com/sangralrahul/NESTOOD">NESTOOD</a> (construction site with cost calculator) · <a href="https://github.com/sangralrahul/RAHUL-LEETCODE">LeetCode solutions</a></p>
 
-| Project | What it is | Links |
-|---|---|---|
-| **Zyphix** | Hyperlocal commerce for India: groceries, food and pharmacy from trusted neighbourhood businesses. Designed, built and deployed from the ground up with modular REST APIs, a clean SQL schema and automated CI/CD. | [zyphix.in](https://zyphix.in) · [Repo](https://github.com/sangralrahul/Zyphix) |
-| **Sentinel-Z** | Privacy-preserving fraud detection for banking security logs: pseudonymised, explainable, no cloud calls, runs on IBM Z. IBM Z Datathon 2026, Team Bitverse. | [Live demo](https://sentinel-z-eight.vercel.app) · [Repo](https://github.com/sangralrahul/sentinel-z) |
-| **SQLFixEnv** and **CodeDebugEnv** | Two OpenEnv environments for the Meta × PyTorch OpenEnv Hackathon: agents fix broken SQL against a real SQLite database, and repair real-world buggy Python. | [SQLFixEnv](https://github.com/sangralrahul/SQLFixEnv) · [CodeDebugEnv](https://github.com/sangralrahul/CodeDebugEnv) |
-| **Weather Explorer** | Climate-data pipeline for the InRisk Labs case study: Open-Meteo history archived as raw JSON in Google Cloud Storage, served by FastAPI, visualised in Next.js. | [Repo](https://github.com/sangralrahul/inrisk-weather-explorer) |
-| **Employee Attendance API** | FastAPI + MongoDB punch-in / punch-out service with IST business rules, audited corrections and aggregation-pipeline analytics. | [Repo](https://github.com/sangralrahul/employee-attendance-api) |
-| **Daylit** | A one-minute daily English habit with streaks, points, badges and a weekly league, built for modest Android phones and mobile data. No dependencies, no build step. | [Live](https://daylit5.vercel.app) · [Repo](https://github.com/sangralrahul/daylit) |
-| **CivicPulse Agent** | Civic-issue reporting for the All Things Agentic Hackathon: classifies complaints, routes them to the right department and tracks them to resolution. | [Repo](https://github.com/sangralrahul/CIVICPULSEAGENT) |
-| **ReflectAI** | Authenticated journaling and reflection assistant on Gemini, Firebase Auth and Firestore with per-user data isolation and location-aware entries. | [Repo](https://github.com/sangralrahul/REFLECT-AI) |
+<img src="assets/sec-experience.svg" width="100%" alt="03 Experience, 2023 to now">
 
-Also: [NESTOOD](https://github.com/sangralrahul/NESTOOD), a construction website with a cost calculator and admin panel, and my [LeetCode solutions](https://github.com/sangralrahul/RAHUL-LEETCODE).
+<img src="assets/timeline.svg" width="100%" alt="Experience: Founding Software Engineer at Clavix Technologies (Aethex) since Nov 2025; Freelance Software Developer since 2023; Business Development Executive intern at SND Technologies, Jan to Feb 2026; JPMorgan Chase and Deloitte virtual experience, Feb 2026; BCA, Uttaranchal University, 2023 to 2026.">
 
-## Stack
+<img src="assets/sec-stack.svg" width="100%" alt="04 Stack: what I build with">
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind,fastapi,nodejs,postgres,mysql,mongodb,firebase&perline=12" alt="Python, TypeScript, JavaScript, React, Next.js, Tailwind, FastAPI, Node.js, PostgreSQL, MySQL, MongoDB, Firebase"></a>
@@ -76,33 +63,22 @@ Also: [NESTOOD](https://github.com/sangralrahul/NESTOOD), a construction website
 
 <img src="assets/ticker.svg" width="100%" alt="Stack ticker: Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Firestore, Node.js, Tailwind, Claude API, Amazon Bedrock, Vertex AI, Hugging Face, RAG, scikit-learn, Pandas, AWS, Google Cloud, Azure, Vercel, Railway, Cloudflare, Docker, GitHub Actions, Razorpay, Postman, pytest.">
 
-## Experience
+<img src="assets/sec-certs.svg" width="100%" alt="05 Certifications, each one links to the issuer">
 
-**Founding Software Engineer**, Clavix Technologies (Aethex) · Remote · Nov 2025 – present  
-Sole developer behind aethex.in and its products: the Cadus clinical AI (web and desktop) and the AETHEX PC, HC and MC desktop apps. API design, authentication, database schema, Razorpay payments, analytics and CI/CD.
+<p align="center">
+  <a href="https://verify.skilljar.com/c/i3h2m4rcgjsm"><img src="https://img.shields.io/badge/Anthropic-Building_with_the_Claude_API-4F46E5?style=for-the-badge&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Anthropic: Building_with_the_Claude_API"></a>
+  <a href="https://verify.skilljar.com/c/7r6sf98nkkzv"><img src="https://img.shields.io/badge/Anthropic-Claude_in_Amazon_Bedrock-4F46E5?style=for-the-badge&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Anthropic: Claude_in_Amazon_Bedrock"></a>
+  <a href="https://verify.skilljar.com/c/7bbqpvc8vzxu"><img src="https://img.shields.io/badge/Anthropic-Claude_with_Vertex_AI-4F46E5?style=for-the-badge&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Anthropic: Claude_with_Vertex_AI"></a>
+  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/Oracle-Agentic_AI_Foundations_Associate-4F46E5?style=for-the-badge&labelColor=0B1020&logo=oracle&logoColor=22D3EE" alt="Oracle: Agentic_AI_Foundations_Associate"></a>
+  <a href="https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14"><img src="https://img.shields.io/badge/McKinsey-Forward_Program-4F46E5?style=for-the-badge&labelColor=0B1020" alt="McKinsey: Forward_Program"></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS"><img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-4F46E5?style=for-the-badge&labelColor=0B1020&logo=google&logoColor=22D3EE" alt="Google: Advanced_Data_Analytics"></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77"><img src="https://img.shields.io/badge/Microsoft-AI_%26_ML_Engineering-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Microsoft: AI_%26_ML_Engineering"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L"><img src="https://img.shields.io/badge/Microsoft-AI_%26_ML_Algorithms-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Microsoft: AI_%26_ML_Algorithms"></a>
+  <a href="https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927"><img src="https://img.shields.io/badge/Cisco-Introduction_to_Data_Science-4F46E5?style=for-the-badge&labelColor=0B1020&logo=cisco&logoColor=22D3EE" alt="Cisco: Introduction_to_Data_Science"></a>
+  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering_(Forage)-4F46E5?style=for-the-badge&labelColor=0B1020" alt="JPMorgan_Chase: Software_Engineering_(Forage)"></a>
+</p>
 
-**Freelance Software Developer**, independent · Remote · 2023 – present  
-Web apps, REST APIs and automation scripts for clients across domains.
-
-**Business Development Executive (Intern)**, SND Technologies · Remote · Jan – Feb 2026  
-Automated KPI reporting with Python; SQL and Excel lead and conversion reports.
-
-**Software Engineering Virtual Experience**, JPMorgan Chase and Deloitte Australia (Forage) · Feb 2026  
-Screened financial data feeds for anomalies with Python; cleaned multi-source data for dashboards.
-
-**Bachelor of Computer Applications**, Uttaranchal University, Dehradun · 2023 – 2026
-
-## Certifications
-
-- **Anthropic**: [Building with the Claude API](https://verify.skilljar.com/c/i3h2m4rcgjsm) · [Claude in Amazon Bedrock](https://verify.skilljar.com/c/7r6sf98nkkzv) · [Claude with Vertex AI](https://verify.skilljar.com/c/7bbqpvc8vzxu) (2026)
-- **Oracle**: Agentic AI Certified Foundations Associate (2026)
-- **McKinsey & Company**: [McKinsey Forward Program](https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14) (2026)
-- **Google**: [Advanced Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS)
-- **Microsoft**: [AI & ML Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77) · [AI & ML Algorithms and Techniques](https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L)
-- **Cisco**: [Introduction to Data Science](https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927) (2026)
-- **JPMorgan Chase · Forage**: Software Engineering Virtual Experience (2026)
-
-## Activity
+<img src="assets/sec-activity.svg" width="100%" alt="06 Activity, live from GitHub">
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sangralrahul&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies">
@@ -128,7 +104,7 @@ Screened financial data feeds for anomalies with Python; cleaned multi-source da
   </picture>
 </p>
 
-## Elsewhere
+<img src="assets/sec-connect.svg" width="100%" alt="07 Connect, usually replies within a day">
 
 <p align="center">
   <a href="https://leetcode.com/u/rahulsangral/"><img src="https://img.shields.io/badge/LeetCode-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=leetcode&logoColor=22D3EE" alt="LeetCode"></a>
