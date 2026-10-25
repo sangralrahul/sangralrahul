@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 48" width="260" height="48" role="img" aria-label="Desktop apps: hms.aethex.in">
+<defs><linearGradient id="n" x1="0" x2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="259" height="47" rx="12" fill="#111827" stroke="#2DD4BF" stroke-opacity="0.5"/>
+<path d="M14 0.5H246" stroke="url(#n)" stroke-width="1.5"/>
+<text x="24" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" letter-spacing="1.2" fill="#2DD4BF" textLength="94" lengthAdjust="spacing">DESKTOP APPS</text>
+<text x="132" y="30" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FAFAFA" textLength="104" lengthAdjust="spacing">hms.aethex.in</text>
+</svg>

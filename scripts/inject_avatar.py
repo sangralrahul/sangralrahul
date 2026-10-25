@@ -1,4 +1,4 @@
-"""Embed the GitHub profile picture into assets/banner-v3.svg.
+"""Embed the GitHub profile picture into assets/banner-v4.svg.
 
 The banner is an SVG loaded as an <img>, so it cannot reference the avatar by URL;
 the picture has to live inside the file. This script downloads the current avatar
@@ -9,7 +9,7 @@ Usage: python3 scripts/inject_avatar.py <github-username> [path-to-local-image]
 import base64, pathlib, re, sys, urllib.request
 
 owner = sys.argv[1] if len(sys.argv) > 1 else "sangralrahul"
-svg_path = pathlib.Path(__file__).resolve().parent.parent / "assets" / "banner-v3.svg"
+svg_path = pathlib.Path(__file__).resolve().parent.parent / "assets" / "banner-v4.svg"
 
 if len(sys.argv) > 2:
     data = pathlib.Path(sys.argv[2]).read_bytes()

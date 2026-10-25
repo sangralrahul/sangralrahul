@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 293 48" width="293" height="48" role="img" aria-label="Anthropic: Claude with Vertex AI">
-<defs><linearGradient id="n" x1="0" x2="1"><stop offset="0" stop-color="#E6C27C"/><stop offset="1" stop-color="#8A8A94"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="292" height="47" rx="12" fill="#121218" stroke="#E6C27C" stroke-opacity="0.5"/>
-<path d="M14 0.5H279" stroke="url(#n)" stroke-width="1.5"/>
-<text x="24" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" letter-spacing="1.2" fill="#E6C27C" textLength="72" lengthAdjust="spacing">ANTHROPIC</text>
-<text x="110" y="30" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FAFAFA" textLength="160" lengthAdjust="spacing">Claude with Vertex AI</text>
-</svg>
