@@ -1,4 +1,4 @@
-<a href="https://rahulsangral.me"><img src="assets/banner-v4.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
+<a href="https://rahulsangral.me"><img src="assets/banner-v5.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
 
 <p align="center">
   <a href="https://rahulsangral.me"><img src="assets/btn/portfolio-v4.svg" height="48" alt="Portfolio: rahulsangral.me"></a>
