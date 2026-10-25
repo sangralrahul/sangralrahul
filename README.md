@@ -1,21 +1,21 @@
-<a href="https://rahulsangral.me"><img src="assets/header.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
+<a href="https://rahulsangral.me"><img src="assets/banner.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
 
 <p align="center">
-  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/Portfolio-rahulsangral.me-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=googlechrome&logoColor=5EEAD4" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/rahulsangral/"><img src="https://img.shields.io/badge/LinkedIn-rahulsangral-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn"></a>
-  <a href="mailto:hello@rahulsangral.me"><img src="https://img.shields.io/badge/Email-hello%40rahulsangral.me-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=gmail&logoColor=5EEAD4" alt="Email"></a>
-  <a href="https://rahulsangral.me/resume.pdf"><img src="https://img.shields.io/badge/CV-Download-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=readdotcv&logoColor=5EEAD4" alt="Download CV"></a>
+  <a href="https://rahulsangral.me"><img src="https://img.shields.io/badge/Portfolio-rahulsangral.me-4F46E5?style=for-the-badge&labelColor=0B1020&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/rahulsangral/"><img src="https://img.shields.io/badge/LinkedIn-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
+  <a href="mailto:hello@rahulsangral.me"><img src="https://img.shields.io/badge/Email-hello%40rahulsangral.me-4F46E5?style=for-the-badge&labelColor=0B1020&logo=gmail&logoColor=22D3EE" alt="Email"></a>
+  <a href="https://rahulsangral.me/resume.pdf"><img src="https://img.shields.io/badge/CV-Download-4F46E5?style=for-the-badge&labelColor=0B1020&logo=readdotcv&logoColor=22D3EE" alt="Download CV"></a>
 </p>
 
 Founder of **[AETHEX](https://aethex.in)**, a medical workspace for India's doctors, hospitals and medical colleges, and of **[Cadus](https://cadus.aethex.in)**, the clinical AI built into it. I design the APIs and data, build the web and desktop apps, and run the releases: React, TypeScript, FastAPI, PostgreSQL and AI.
 
 Founding Software Engineer at Clavix Technologies and graduating in 2026 (BCA, Uttaranchal University). Open to **SDE-1 / New Grad roles**, remote or on-site, and to freelance work. Next up: Cadus Desktop for macOS.
 
-<img src="assets/glance.svg" width="100%" alt="At a glance: 3+ years building software, 10+ certifications, 60% less manual analysis, 40% fewer manual reports.">
+<img src="assets/stats.svg" width="100%" alt="At a glance: 3+ years building software, 10+ certifications, 60% less manual analysis, 40% fewer manual reports, and skill levels across the stack.">
 
 ## AETHEX
 
-<img src="assets/aethex.svg" width="100%" alt="The AETHEX product family: one aethex.in account across the web platform, the AETHEX PC, HC and MC desktop apps and Cadus Desktop, with the Cadus clinical AI built into every app.">
+<img src="assets/products.svg" width="100%" alt="The AETHEX product family: one aethex.in account across the web platform, the AETHEX PC, HC and MC desktop apps and Cadus Desktop, with the Cadus clinical AI built into every app.">
 
 | Product | Who it's for | What it does | Status |
 |---|---|---|---|
@@ -62,17 +62,19 @@ Also: [NESTOOD](https://github.com/sangralrahul/NESTOOD), a construction website
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_API-1F4D4A?style=flat-square&labelColor=0F1D22&logo=anthropic&logoColor=5EEAD4" alt="Claude API">
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-1F4D4A?style=flat-square&labelColor=0F1D22&logo=amazonwebservices&logoColor=5EEAD4" alt="Amazon Bedrock">
-  <img src="https://img.shields.io/badge/Vertex_AI-1F4D4A?style=flat-square&labelColor=0F1D22&logo=googlecloud&logoColor=5EEAD4" alt="Vertex AI">
-  <img src="https://img.shields.io/badge/Hugging_Face-1F4D4A?style=flat-square&labelColor=0F1D22&logo=huggingface&logoColor=5EEAD4" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/RAG_pipelines-1F4D4A?style=flat-square&labelColor=0F1D22" alt="RAG pipelines">
-  <img src="https://img.shields.io/badge/Pandas-1F4D4A?style=flat-square&labelColor=0F1D22&logo=pandas&logoColor=5EEAD4" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-1F4D4A?style=flat-square&labelColor=0F1D22&logo=numpy&logoColor=5EEAD4" alt="NumPy">
-  <img src="https://img.shields.io/badge/Tableau-1F4D4A?style=flat-square&labelColor=0F1D22&logo=tableau&logoColor=5EEAD4" alt="Tableau">
-  <img src="https://img.shields.io/badge/Power_BI-1F4D4A?style=flat-square&labelColor=0F1D22" alt="Power BI">
-  <img src="https://img.shields.io/badge/Razorpay-1F4D4A?style=flat-square&labelColor=0F1D22&logo=razorpay&logoColor=5EEAD4" alt="Razorpay">
+  <img src="https://img.shields.io/badge/Claude_API-4F46E5?style=flat-square&labelColor=0B1020&logo=anthropic&logoColor=22D3EE" alt="Claude API">
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-4F46E5?style=flat-square&labelColor=0B1020&logo=amazonwebservices&logoColor=22D3EE" alt="Amazon Bedrock">
+  <img src="https://img.shields.io/badge/Vertex_AI-4F46E5?style=flat-square&labelColor=0B1020&logo=googlecloud&logoColor=22D3EE" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/Hugging_Face-4F46E5?style=flat-square&labelColor=0B1020&logo=huggingface&logoColor=22D3EE" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/RAG_pipelines-4F46E5?style=flat-square&labelColor=0B1020" alt="RAG pipelines">
+  <img src="https://img.shields.io/badge/Pandas-4F46E5?style=flat-square&labelColor=0B1020&logo=pandas&logoColor=22D3EE" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-4F46E5?style=flat-square&labelColor=0B1020&logo=numpy&logoColor=22D3EE" alt="NumPy">
+  <img src="https://img.shields.io/badge/Tableau-4F46E5?style=flat-square&labelColor=0B1020&logo=tableau&logoColor=22D3EE" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power_BI-4F46E5?style=flat-square&labelColor=0B1020" alt="Power BI">
+  <img src="https://img.shields.io/badge/Razorpay-4F46E5?style=flat-square&labelColor=0B1020&logo=razorpay&logoColor=22D3EE" alt="Razorpay">
 </p>
+
+<img src="assets/ticker.svg" width="100%" alt="Stack ticker: Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Firestore, Node.js, Tailwind, Claude API, Amazon Bedrock, Vertex AI, Hugging Face, RAG, scikit-learn, Pandas, AWS, Google Cloud, Azure, Vercel, Railway, Cloudflare, Docker, GitHub Actions, Razorpay, Postman, pytest.">
 
 ## Experience
 
@@ -103,16 +105,20 @@ Screened financial data feeds for anomalies with Python; cleaned multi-source da
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangralrahul&show_icons=true&hide_border=true&count_private=true&bg_color=0F1D22&title_color=5EEAD4&icon_color=5EEAD4&text_color=9FB3B8&ring_color=5EEAD4&border_radius=16" height="170" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangralrahul&layout=compact&hide_border=true&bg_color=0F1D22&title_color=5EEAD4&text_color=9FB3B8&border_radius=16" height="170" alt="Most used languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=sangralrahul&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sangralrahul&hide_border=true&background=0F1D22&ring=5EEAD4&fire=5EEAD4&currStreakNum=F2EFE7&sideNums=F2EFE7&currStreakLabel=5EEAD4&sideLabels=9FB3B8&dates=9FB3B8&border_radius=16" alt="Contribution streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangralrahul&show_icons=true&hide_border=true&count_private=true&bg_color=0B1020&title_color=22D3EE&icon_color=A855F7&text_color=9AA3C7&ring_color=A855F7&border_radius=16" height="170" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangralrahul&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=9AA3C7&border_radius=16" height="170" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangralrahul&bg_color=0F1D22&color=9FB3B8&line=5EEAD4&point=F2EFE7&area=true&area_color=5EEAD4&hide_border=true&radius=16&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph">
+  <img src="https://streak-stats.demolab.com?user=sangralrahul&hide_border=true&background=0B1020&ring=A855F7&fire=22D3EE&currStreakNum=EEF1FF&sideNums=EEF1FF&currStreakLabel=22D3EE&sideLabels=9AA3C7&dates=9AA3C7&border_radius=16" alt="Contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangralrahul&bg_color=0B1020&color=9AA3C7&line=22D3EE&point=A855F7&area=true&area_color=4F46E5&hide_border=true&radius=16&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph">
 </p>
 
 <p align="center">
@@ -125,12 +131,14 @@ Screened financial data feeds for anomalies with Python; cleaned multi-source da
 ## Elsewhere
 
 <p align="center">
-  <a href="https://leetcode.com/u/rahulsangral/"><img src="https://img.shields.io/badge/LeetCode-rahulsangral-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=leetcode&logoColor=5EEAD4" alt="LeetCode"></a>
-  <a href="https://codeforces.com/profile/rahulsangral"><img src="https://img.shields.io/badge/Codeforces-rahulsangral-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=codeforces&logoColor=5EEAD4" alt="Codeforces"></a>
-  <a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="https://img.shields.io/badge/GeeksforGeeks-rahulsangral-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=geeksforgeeks&logoColor=5EEAD4" alt="GeeksforGeeks"></a>
-  <a href="https://www.hackerrank.com/rahulsangral"><img src="https://img.shields.io/badge/HackerRank-rahulsangral-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=hackerrank&logoColor=5EEAD4" alt="HackerRank"></a>
-  <a href="https://huggingface.co/sangralrahul"><img src="https://img.shields.io/badge/Hugging_Face-sangralrahul-1F4D4A?style=for-the-badge&labelColor=0F1D22&logo=huggingface&logoColor=5EEAD4" alt="Hugging Face"></a>
-  <a href="https://www.codedex.io/@rahulsangral"><img src="https://img.shields.io/badge/Cod%C3%A9dex-%40rahulsangral-1F4D4A?style=for-the-badge&labelColor=0F1D22" alt="Codédex"></a>
+  <a href="https://leetcode.com/u/rahulsangral/"><img src="https://img.shields.io/badge/LeetCode-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=leetcode&logoColor=22D3EE" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/rahulsangral"><img src="https://img.shields.io/badge/Codeforces-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=codeforces&logoColor=22D3EE" alt="Codeforces"></a>
+  <a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="https://img.shields.io/badge/GeeksforGeeks-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=geeksforgeeks&logoColor=22D3EE" alt="GeeksforGeeks"></a>
+  <a href="https://www.hackerrank.com/rahulsangral"><img src="https://img.shields.io/badge/HackerRank-rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020&logo=hackerrank&logoColor=22D3EE" alt="HackerRank"></a>
+  <a href="https://huggingface.co/sangralrahul"><img src="https://img.shields.io/badge/Hugging_Face-sangralrahul-4F46E5?style=for-the-badge&labelColor=0B1020&logo=huggingface&logoColor=22D3EE" alt="Hugging Face"></a>
+  <a href="https://www.codedex.io/@rahulsangral"><img src="https://img.shields.io/badge/Cod%C3%A9dex-%40rahulsangral-4F46E5?style=for-the-badge&labelColor=0B1020" alt="Codédex"></a>
 </p>
 
 <p align="center">The quickest way to reach me is <a href="mailto:hello@rahulsangral.me">hello@rahulsangral.me</a>. I usually reply within a day.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:4F46E5,100:A855F7&height=130&section=footer&animation=twinkling" width="100%" alt="">
