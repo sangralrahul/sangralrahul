@@ -1,4 +1,4 @@
-# Keeps the profile picture in assets/banner-v2.svg in sync with the GitHub avatar.
+# Keeps the profile picture in assets/banner-v3.svg in sync with the GitHub avatar.
 # Runs on every push, daily, and on demand; commits only when the picture changed.
 # One-time setup: repo Settings → Actions → General → Workflow permissions → "Read and write permissions".
 name: Refresh profile picture in banner
@@ -27,5 +27,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/banner-v2.svg
+          git add assets/banner-v3.svg
           git diff --cached --quiet || (git commit -m "chore: refresh profile picture in banner [skip ci]" && git push)

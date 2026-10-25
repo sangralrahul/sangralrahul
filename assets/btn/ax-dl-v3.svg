@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 295 48" width="295" height="48" role="img" aria-label="Downloads: downloads.aethex.in">
+<defs><linearGradient id="n" x1="0" x2="1"><stop offset="0" stop-color="#E6C27C"/><stop offset="1" stop-color="#8A8A94"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="294" height="47" rx="12" fill="#121218" stroke="#F1E3C0" stroke-opacity="0.5"/>
+<path d="M14 0.5H281" stroke="url(#n)" stroke-width="1.5"/>
+<text x="24" y="29" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" letter-spacing="1.2" fill="#F1E3C0" textLength="80" lengthAdjust="spacing">DOWNLOADS</text>
+<text x="118" y="30" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#FAFAFA" textLength="153" lengthAdjust="spacing">downloads.aethex.in</text>
+</svg>
