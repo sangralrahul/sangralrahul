@@ -12,22 +12,22 @@
 .in{animation:fadeup .9s cubic-bezier(.2,.7,.2,1) backwards}
 @keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.caret,.pen{display:none}}
-.beam{animation:beam 4s ease-in-out infinite}@keyframes beam{0%{transform:translateX(0)}100%{transform:translateX(1100px)}}</style><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070B14"/><stop offset="1" stop-color="#0D1226"/></linearGradient>
-  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.5" stop-color="#60A5FA"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+.beam{animation:beam 4s ease-in-out infinite}@keyframes beam{0%{transform:translateX(0)}100%{transform:translateX(1100px)}}</style><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0A0A"/><stop offset="1" stop-color="#141414"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#D4D4D8"/><stop offset="1" stop-color="#9CA3AF"/></linearGradient>
   <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-    <stop offset="0" stop-color="#22D3EE"/><stop offset="0.3" stop-color="#60A5FA"/><stop offset="0.6" stop-color="#A855F7"/><stop offset="0.8" stop-color="#F472B6"/><stop offset="1" stop-color="#22D3EE"/>
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.3" stop-color="#D4D4D8"/><stop offset="0.6" stop-color="#9CA3AF"/><stop offset="0.8" stop-color="#E5E7EB"/><stop offset="1" stop-color="#FFFFFF"/>
     <animate attributeName="x1" values="-1;0" dur="5s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1" dur="5s" repeatCount="indefinite"/>
   </linearGradient>
-  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.28"/></linearGradient>
-  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="rgba(96,165,250,0.07)" stroke-width="1"/></pattern>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.28"/></linearGradient>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/></pattern>
   <clipPath id="card"><rect width="1200" height="76" rx="24"/></clipPath>
   <filter id="glow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="8"/></filter>
   <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
   <filter id="orb" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="70"/></filter></defs><g clip-path="url(#card)"><rect width="1200" height="76" fill="url(#bg)"/><rect width="1200" height="76" fill="url(#g)"/>
 <rect class="beam" x="-120" y="73" width="120" height="3" fill="url(#neon)" opacity="0.9"/></g>
 <rect x="0.5" y="0.5" width="1199" height="75" rx="18" fill="none" stroke="url(#neon)" stroke-opacity="0.35"/>
-<rect x="24" y="22" width="34" height="32" rx="8" fill="#A855F7" fill-opacity="0.18" stroke="#A855F7" stroke-opacity="0.6"/>
-<text x="41" y="44" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#EEF1FF">05</text>
+<rect x="24" y="22" width="34" height="32" rx="8" fill="#9CA3AF" fill-opacity="0.18" stroke="#9CA3AF" stroke-opacity="0.6"/>
+<text x="41" y="44" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#FAFAFA">05</text>
 <text x="76" y="48" font-family="'Space Grotesk', 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="30" fill="url(#shimmer)">Certifications</text>
-<path d="M298.37 38H901.6" stroke="#EEF1FF" stroke-opacity="0.12"/>
-<text x="1144" y="43" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#9AA3C7">each one links to the issuer</text></svg>
+<path d="M298.37 38H901.6" stroke="#FAFAFA" stroke-opacity="0.12"/>
+<text x="1144" y="43" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13" fill="#A1A1AA">each one links to the issuer</text></svg>

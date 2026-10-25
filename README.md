@@ -68,16 +68,16 @@
 <img src="assets/sec-activity.svg" width="100%" alt="06 Activity, live from GitHub">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangralrahul&show_icons=true&hide_border=true&count_private=true&bg_color=0B1020&title_color=22D3EE&icon_color=A855F7&text_color=9AA3C7&ring_color=A855F7&border_radius=16" height="170" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangralrahul&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=9AA3C7&border_radius=16" height="170" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangralrahul&show_icons=true&hide_border=true&count_private=true&bg_color=0A0A0A&title_color=FFFFFF&icon_color=A1A1AA&text_color=A1A1AA&ring_color=FFFFFF&border_radius=16" height="170" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangralrahul&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=A1A1AA&border_radius=16" height="170" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sangralrahul&hide_border=true&background=0B1020&ring=A855F7&fire=22D3EE&currStreakNum=EEF1FF&sideNums=EEF1FF&currStreakLabel=22D3EE&sideLabels=9AA3C7&dates=9AA3C7&border_radius=16" alt="Contribution streak">
+  <img src="https://streak-stats.demolab.com?user=sangralrahul&hide_border=true&background=0A0A0A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=D4D4D8&sideLabels=A1A1AA&dates=A1A1AA&border_radius=16" alt="Contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangralrahul&bg_color=0B1020&color=9AA3C7&line=22D3EE&point=A855F7&area=true&area_color=4F46E5&hide_border=true&radius=16&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangralrahul&bg_color=0A0A0A&color=A1A1AA&line=FFFFFF&point=D4D4D8&area=true&area_color=525252&hide_border=true&radius=16&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph">
 </p>
 
 <p align="center">
