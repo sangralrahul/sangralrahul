@@ -12,7 +12,7 @@
 .in{animation:fadeup .9s cubic-bezier(.2,.7,.2,1) backwards}
 @keyframes fadeup{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.caret,.pen{display:none}}
-.sw{animation:sw 5s ease-in-out infinite}@keyframes sw{0%{transform:translateX(0)}100%{transform:translateX(760px)}}.run{stroke-dasharray:160 840;animation:run 10s linear infinite}@keyframes run{to{stroke-dashoffset:-1000}}.aur{animation:aur 12s ease-in-out infinite alternate}@keyframes aur{from{transform:translateX(-300px)}to{transform:translateX(900px)}}</style><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1C"/><stop offset="1" stop-color="#111827"/></linearGradient>
+.sw{animation:sw 5s ease-in-out infinite}@keyframes sw{0%{transform:translateX(0)}100%{transform:translateX(760px)}}.run{stroke-dasharray:160 840;animation:run 10s linear infinite}@keyframes run{to{stroke-dashoffset:-1000}}.aur{animation:aur 12s ease-in-out infinite alternate}@keyframes aur{from{transform:translateX(-300px)}to{transform:translateX(900px)}}</style><defs><linearGradient id="ag38BDF8"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient><radialGradient id="rgFBBF24"><stop offset="0" stop-color="#FBBF24"/><stop offset=".45" stop-color="#FBBF24" stop-opacity=".45"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A0F1C"/><stop offset="1" stop-color="#111827"/></linearGradient>
   <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#3B82F6"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
   <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
     <stop offset="0" stop-color="#38BDF8"/><stop offset="0.3" stop-color="#3B82F6"/><stop offset="0.6" stop-color="#2DD4BF"/><stop offset="0.8" stop-color="#FBBF24"/><stop offset="1" stop-color="#38BDF8"/>
@@ -21,10 +21,10 @@
   <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0.28"/></linearGradient>
   <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="rgba(56,189,248,0.06)" stroke-width="1"/></pattern>
   <clipPath id="card"><rect width="580" height="176" rx="24"/></clipPath>
-  <filter id="glow" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="8"/></filter>
-  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
-  <filter id="orb" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="70"/></filter></defs><g clip-path="url(#card)"><rect class="aur" x="0" y="0" width="420" height="177" fill="#38BDF8" opacity="0.045" filter="url(#orb)" transform="skewX(-18)"/><rect width="580" height="176" fill="url(#bg)"/><rect width="580" height="176" fill="url(#g)"/>
-<circle cx="520" cy="30" r="140" fill="#FBBF24" opacity="0.07" filter="url(#orb)"/>
+  
+  
+  </defs><g clip-path="url(#card)"><rect class="aur" x="0" y="0" width="420" height="177" fill="url(#ag38BDF8)" opacity="0.045" transform="skewX(-18)"/><rect width="580" height="176" fill="url(#bg)"/><rect width="580" height="176" fill="url(#g)"/>
+<circle cx="520" cy="30" r="238" fill="url(#rgFBBF24)" opacity="0.07"/>
 <rect class="sw" x="-140" y="0" width="140" height="176" fill="#FAFAFA" opacity="0.04"/></g>
 <rect x="0.5" y="0.5" width="579" height="175" rx="18" fill="none" stroke="#FBBF24" stroke-opacity="0.45"/><rect class="run" x="0.5" y="0.5" width="579" height="175" rx="18" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.9" pathLength="1000"/>
 <path d="M18 0.5H562" stroke="url(#neon)" stroke-width="2"/>

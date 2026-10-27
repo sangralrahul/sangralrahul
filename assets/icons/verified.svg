@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+<style>.c{stroke-dasharray:14;animation:ck 2.8s ease-in-out infinite}@keyframes ck{0%{stroke-dashoffset:14}35%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:14}}
+.p{transform-origin:12px 12px;animation:pl 2.8s ease-out infinite}@keyframes pl{0%{transform:scale(.8);opacity:.6}100%{transform:scale(1.25);opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<path class="p" d="M12 2.5l8 3.3v6c0 5-3.4 8.4-8 9.8-4.6-1.4-8-4.8-8-9.8v-6z" fill="none" stroke="#38BDF8" stroke-width="1.2"/>
+<path d="M12 2.5l8 3.3v6c0 5-3.4 8.4-8 9.8-4.6-1.4-8-4.8-8-9.8v-6z" fill="#38BDF8" fill-opacity=".15" stroke="#38BDF8" stroke-width="1.6"/>
+<path class="c" d="M8.3 12.2l2.5 2.5 5-5.2" fill="none" stroke="#2DD4BF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
