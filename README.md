@@ -1,11 +1,8 @@
 <a href="https://rahulsangral.me"><img src="assets/banner-v6.svg" width="100%" alt="Rahul Sangral, full-stack and AI developer. I build AI products for healthcare and ship them end to end."></a>
 
-<p align="center">
-  <a href="https://rahulsangral.me"><img src="assets/btn/portfolio-v6.svg" height="48" alt="Portfolio: rahulsangral.me"></a>
-  <a href="https://www.linkedin.com/in/rahulsangral/"><img src="assets/btn/linkedin-v6.svg" height="48" alt="LinkedIn: in/rahulsangral"></a>
-  <a href="mailto:hello@rahulsangral.me"><img src="assets/btn/email-v6.svg" height="48" alt="Email: hello@rahulsangral.me"></a>
-  <a href="https://rahulsangral.me/resume.pdf"><img src="assets/btn/cv-v6.svg" height="48" alt="CV: Download PDF"></a>
-</p>
+<table align="center">
+<tr><td align="center" width="25%"><a href="https://rahulsangral.me"><img src="assets/icons/globe.svg" width="28" height="28" alt="Portfolio logo"><br><b>Portfolio</b></a><br><sub>rahulsangral.me</sub></td><td align="center" width="25%"><a href="https://www.linkedin.com/in/rahulsangral/"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn logo"><br><b>LinkedIn</b></a><br><sub>in/rahulsangral</sub></td><td align="center" width="25%"><a href="mailto:hello@rahulsangral.me"><img src="assets/icons/mail.svg" width="28" height="28" alt="Email logo"><br><b>Email</b></a><br><sub>hello@rahulsangral.me</sub></td><td align="center" width="25%"><a href="https://rahulsangral.me/resume.pdf"><img src="assets/icons/cv.svg" width="28" height="28" alt="Résumé logo"><br><b>Résumé</b></a><br><sub>Download PDF</sub></td></tr>
+</table>
 
 <img src="assets/about-v6.svg" width="100%" alt="Founder of AETHEX, a medical workspace for India's doctors, hospitals and medical colleges, and of Cadus, the clinical AI built into it. I design the APIs and data, build the web and desktop apps, and run the releases. Founding Software Engineer at Clavix Technologies, BCA 2026, Delhi, open to SDE-1 / New Grad roles and freelance.">
 
@@ -52,18 +49,13 @@
 
 <img src="assets/sec-certs-v6.svg" width="100%" alt="05 Certifications, each one links to the issuer">
 
-<p align="center">
-  <a href="https://verify.skilljar.com/c/i3h2m4rcgjsm"><img src="assets/btn/c-claude-v6.svg" height="48" alt="Anthropic: Building with the Claude API"></a>
-  <a href="https://verify.skilljar.com/c/7r6sf98nkkzv"><img src="assets/btn/c-bedrock-v6.svg" height="48" alt="Anthropic: Claude in Amazon Bedrock"></a>
-  <a href="https://verify.skilljar.com/c/7bbqpvc8vzxu"><img src="assets/btn/c-vertex-v6.svg" height="48" alt="Anthropic: Claude with Vertex AI"></a>
-  <a href="https://rahulsangral.me"><img src="assets/btn/c-oracle-v6.svg" height="48" alt="Oracle: Agentic AI Foundations Associate"></a>
-  <a href="https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14"><img src="assets/btn/c-mck-v6.svg" height="48" alt="McKinsey: Forward Program"></a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS"><img src="assets/btn/c-google-v6.svg" height="48" alt="Google: Advanced Data Analytics"></a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77"><img src="assets/btn/c-ms1-v6.svg" height="48" alt="Microsoft: AI &amp; ML Engineering"></a>
-  <a href="https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L"><img src="assets/btn/c-ms2-v6.svg" height="48" alt="Microsoft: AI &amp; ML Algorithms"></a>
-  <a href="https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927"><img src="assets/btn/c-cisco-v6.svg" height="48" alt="Cisco: Introduction to Data Science"></a>
-  <a href="https://rahulsangral.me"><img src="assets/btn/c-jpmc-v6.svg" height="48" alt="JPMorgan Chase: Software Engineering (Forage)"></a>
-</p>
+<table>
+<tr><td width="50%"><img src="https://cdn.simpleicons.org/anthropic/191919/F0EEE6" width="34" height="34" align="left" alt="Anthropic logo">&nbsp;&nbsp;<a href="https://verify.skilljar.com/c/i3h2m4rcgjsm"><b>Building with the Claude API</b></a><br>&nbsp;&nbsp;<sub>Anthropic · 2026</sub></td><td width="50%"><img src="https://cdn.simpleicons.org/anthropic/191919/F0EEE6" width="34" height="34" align="left" alt="Anthropic logo">&nbsp;&nbsp;<a href="https://verify.skilljar.com/c/7r6sf98nkkzv"><b>Claude in Amazon Bedrock</b></a><br>&nbsp;&nbsp;<sub>Anthropic · 2026</sub></td></tr>
+<tr><td width="50%"><img src="https://cdn.simpleicons.org/anthropic/191919/F0EEE6" width="34" height="34" align="left" alt="Anthropic logo">&nbsp;&nbsp;<a href="https://verify.skilljar.com/c/7bbqpvc8vzxu"><b>Claude with Vertex AI</b></a><br>&nbsp;&nbsp;<sub>Anthropic · 2026</sub></td><td width="50%"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/oracle/oracle-original.svg" width="34" height="34" align="left" alt="Oracle logo">&nbsp;&nbsp;<a href="https://rahulsangral.me"><b>Agentic AI Certified Foundations Associate</b></a><br>&nbsp;&nbsp;<sub>Oracle · 2026</sub></td></tr>
+<tr><td width="50%"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/google/google-original.svg" width="34" height="34" align="left" alt="Google logo">&nbsp;&nbsp;<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/LF56ZWGJU6ZS"><b>Advanced Data Analytics</b></a><br>&nbsp;&nbsp;<sub>Google · Professional Certificate</sub></td><td width="50%"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="34" height="34" align="left" alt="Cisco logo">&nbsp;&nbsp;<a href="https://www.credly.com/badges/86541c80-8bd8-4db6-8104-043ae00d2927"><b>Introduction to Data Science</b></a><br>&nbsp;&nbsp;<sub>Cisco · 2026</sub></td></tr>
+<tr><td width="50%"><img src="https://cdn.simpleicons.org/coursera/0056D2/5C9DFF" width="34" height="34" align="left" alt="Microsoft logo">&nbsp;&nbsp;<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/DUA346BJ4G77"><b>AI &amp; ML Engineering</b></a><br>&nbsp;&nbsp;<sub>Microsoft · Coursera · Professional Certificate</sub></td><td width="50%"><img src="https://cdn.simpleicons.org/coursera/0056D2/5C9DFF" width="34" height="34" align="left" alt="Microsoft logo">&nbsp;&nbsp;<a href="https://www.coursera.org/account/accomplishments/verify/WHVYD6WKFM9L"><b>AI &amp; ML Algorithms and Techniques</b></a><br>&nbsp;&nbsp;<sub>Microsoft · Coursera</sub></td></tr>
+<tr><td width="50%"><img src="https://cdn.simpleicons.org/credly/FF6B00" width="34" height="34" align="left" alt="McKinsey &amp; Company logo">&nbsp;&nbsp;<a href="https://www.credly.com/badges/dda78901-d85d-4aeb-866e-14d54c3c4d14"><b>McKinsey Forward Program</b></a><br>&nbsp;&nbsp;<sub>McKinsey &amp; Company · Credly · 2026</sub></td><td width="50%"><img src="assets/icons/award.svg" width="34" height="34" align="left" alt="JPMorgan Chase logo">&nbsp;&nbsp;<a href="https://rahulsangral.me"><b>Software Engineering Virtual Experience</b></a><br>&nbsp;&nbsp;<sub>JPMorgan Chase · Forage · 2026</sub></td></tr>
+</table>
 
 <img src="assets/sec-activity-v6.svg" width="100%" alt="06 Activity, live from GitHub">
 
@@ -76,13 +68,8 @@
 
 <img src="assets/sec-connect-v6.svg" width="100%" alt="07 Connect, usually replies within a day">
 
-<p align="center">
-  <a href="https://leetcode.com/u/rahulsangral/"><img src="assets/btn/s-leetcode-v6.svg" height="48" alt="LeetCode: rahulsangral"></a>
-  <a href="https://codeforces.com/profile/rahulsangral"><img src="assets/btn/s-cf-v6.svg" height="48" alt="Codeforces: rahulsangral"></a>
-  <a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="assets/btn/s-gfg-v6.svg" height="48" alt="GeeksforGeeks: rahulsangral"></a>
-  <a href="https://www.hackerrank.com/rahulsangral"><img src="assets/btn/s-hr-v6.svg" height="48" alt="HackerRank: rahulsangral"></a>
-  <a href="https://huggingface.co/sangralrahul"><img src="assets/btn/s-hf-v6.svg" height="48" alt="Hugging Face: sangralrahul"></a>
-  <a href="https://www.codedex.io/@rahulsangral"><img src="assets/btn/s-codedex-v6.svg" height="48" alt="Codédex: @rahulsangral"></a>
-</p>
+<table align="center">
+<tr><td align="center" width="16%"><a href="https://leetcode.com/u/rahulsangral/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" height="26" alt="LeetCode logo"><br><b>LeetCode</b></a><br><sub>rahulsangral</sub></td><td align="center" width="16%"><a href="https://codeforces.com/profile/rahulsangral"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="26" height="26" alt="Codeforces logo"><br><b>Codeforces</b></a><br><sub>rahulsangral</sub></td><td align="center" width="16%"><a href="https://www.geeksforgeeks.org/user/rahulsangral/"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="26" height="26" alt="GeeksforGeeks logo"><br><b>GeeksforGeeks</b></a><br><sub>rahulsangral</sub></td><td align="center" width="16%"><a href="https://www.hackerrank.com/rahulsangral"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="26" height="26" alt="HackerRank logo"><br><b>HackerRank</b></a><br><sub>rahulsangral</sub></td><td align="center" width="16%"><a href="https://huggingface.co/sangralrahul"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="26" height="26" alt="Hugging Face logo"><br><b>Hugging Face</b></a><br><sub>sangralrahul</sub></td><td align="center" width="16%"><a href="https://www.codedex.io/@rahulsangral"><img src="assets/icons/code.svg" width="26" height="26" alt="Codédex logo"><br><b>Codédex</b></a><br><sub>@rahulsangral</sub></td></tr>
+</table>
 
 <img src="assets/footer-v6.svg" width="100%" alt="Let's build something for healthcare. hello@rahulsangral.me">
