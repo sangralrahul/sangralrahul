@@ -20,6 +20,8 @@
 
 <img src="assets/sec-work-v6.svg" width="100%" alt="02 Selected work: products, hackathons, case studies">
 
+<a href="https://codexa.creditvault.tech"><img src="assets/cards/codexa-v6.svg" width="100%" alt="Codexa: from one sentence to a running app. An AI-native app builder that plans the files, writes real code, checks it in a sandbox, runs a live preview and deploys it."></a>
+
 <table>
 <tr><td width="50%"><a href="https://zyphix.in"><img src="assets/cards/zyphix-v6.svg" width="100%" alt="Zyphix: Hyperlocal commerce for India: groceries, food and pharmacy from trusted neighbourhood businesses. Built from scratch."></a></td><td width="50%"><a href="https://github.com/sangralrahul/sentinel-z"><img src="assets/cards/sentinel-z-v6.svg" width="100%" alt="Sentinel-Z: Privacy-preserving fraud detection for banking security logs. Pseudonymised, explainable, no cloud calls, runs on IBM Z."></a></td></tr>
 <tr><td width="50%"><a href="https://github.com/sangralrahul/SQLFixEnv"><img src="assets/cards/sqlfixenv-v6.svg" width="100%" alt="SQLFixEnv: OpenEnv environment where agents repair broken SQL queries against a real SQLite database, with graded rewards."></a></td><td width="50%"><a href="https://github.com/sangralrahul/CodeDebugEnv"><img src="assets/cards/codedebugenv-v6.svg" width="100%" alt="CodeDebugEnv: OpenEnv environment where agents fix real-world buggy Python code and are scored on the repair."></a></td></tr>
